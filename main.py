@@ -6,5 +6,5 @@ set = {“a” , “b”}  #set
 my_age_23 = False  #bool
 
 git add .
-git commit -m 'Assign data structures to variables'
+git commit -m 'basic_data_structures.py'
 git push origin main
