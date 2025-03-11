@@ -4,7 +4,3 @@ my_name = “ata” #str
 my_fav_colors = [“blue” , “green” , “yellow”]  #list
 set = {“a” , “b”}  #set
 my_age_23 = False  #bool
-
-git add .
-git commit -m 'basic_data_structures.py'
-git push origin main
