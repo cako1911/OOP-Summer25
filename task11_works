@@ -1,0 +1,17 @@
+# task_11.1
+class Student:
+    def hello(self):
+        print("HELLO")
+student1 = Student()
+student1.hello()
+
+# task_11.2
+class Student:
+    def __init__(self, name, index_number):
+        self.name = name
+        self.index_number = index_number
+
+    def hello(self):
+        print(f"Hello, I am {self.name}, my index number is {self.index_number}.")
+student2 = Student("Ata Çakıroğlu", 35459)
+student2.hello()
